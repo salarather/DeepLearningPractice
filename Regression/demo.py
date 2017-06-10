@@ -62,6 +62,7 @@ def run():
 	[b, m] =  gradient_descent_runner(points, initial_b, initial_m, learning_rate, num_iterations)
 	print(b)
 	print(m)
+	print('a')
 
 
 
